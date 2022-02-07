@@ -8,6 +8,7 @@ class  AppTheme {
     return ThemeData(
       primarySwatch: Colors.blue,
       visualDensity: VisualDensity.adaptivePlatformDensity,
+      canvasColor: Colors.white,
     );
   }
 }
